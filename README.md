@@ -12,5 +12,9 @@
 
 - [x] [Marp for VS Code / Marp team](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
+- [x] [Markdown PDF / yzane](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+
+- [x] [Markdown All in One / Yu Zhang](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
 - [ ] []()
 
