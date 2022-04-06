@@ -10,4 +10,5 @@
 - [x] [Markdown PDF / yzane](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - [x] [Markdown All in One / Yu Zhang](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [x] [vscode-pdf / tomoki1207](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+- [x] [Vscode Google Translate / funkyremi](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
 
